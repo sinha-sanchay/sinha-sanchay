@@ -6,7 +6,7 @@
 
   <h1>Sanchay Sinha</h1>
 
-  <p>Hello, I'm Sanchay Sinha, a dedicated B.Tech CSE student currently in my second year. I specialize in front-end development and content creation, merging technology with creativity. Here's a glimpse of what I bring to the table:</p>
+  <p>Hello, I'm Sanchay Sinha, a dedicated B.Tech CSE student currently in my second year. I am good in front-end development and content creation, merging technology with creativity. Here's a glimpse of what I bring to the table:</p>
 
   <h2>🔧 Skills</h2>
   <ul>
