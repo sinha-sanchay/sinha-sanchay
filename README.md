@@ -8,7 +8,7 @@
 
   <p>Hello, I'm Sanchay Sinha, a dedicated B.Tech CSE student currently in my second year. I am good in front-end development and content creation, merging technology with creativity. Here's a glimpse of what I bring to the table:</p>
 
-  <h2>🔧 Skills</h2>
+  <h2 style=" color="red"">🔧 Skills</h2>
   <ul>
     <li>Front-End Development</li>
     <li>HTML,CSS,JavaScript</li>
