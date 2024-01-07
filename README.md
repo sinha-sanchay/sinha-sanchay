@@ -15,7 +15,7 @@
     <li>Content Writing</li>
   </ul>
 
-  <h2>🌱 About Me</h2>
+  <h2>🌱About Me</h2>
   <p>I'm passionate about translating ideas into visually stunning and user-friendly interfaces. My goal is to contribute meaningfully to projects that bridge technology and creativity.</p>
 
   <h2>🚀 Projects</h2>
