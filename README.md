@@ -21,7 +21,7 @@
   <h2>🚀Projects</h2>
   <p>Stay tuned for exciting projects showcasing my development and design prowess.</p>
 
-  <h2>📬 Let's Connect</h2>
+  <h2>📬Let's Connect</h2>
   <p>Feel free to reach out for collaborations or discussions on front-end development, content creation, or anything tech-related!</p>
   <p>Connect with me on <a href="https://www.linkedin.com/in/sanchay-sinha">LinkedIn</a> | Follow me on <a href="https://twitter.com/sinha_sanchay">Twitter</a></p>
 
