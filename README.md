@@ -29,3 +29,4 @@
 
 </body>
 </html>
+[![sinha-sanchay's GitHub | Stats](https://stats.quine.sh/sinha-sanchay/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=sinha-sanchay)
