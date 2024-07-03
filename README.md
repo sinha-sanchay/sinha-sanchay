@@ -10,8 +10,8 @@
 
   <h2>🔧Skills</h2>
   <ul>
-    <li>Front-End Development</li>
     <li>HTML,CSS,JavaScript</li>
+    <li> Python </li>
     <li>Content Writing</li>
   </ul>
 
