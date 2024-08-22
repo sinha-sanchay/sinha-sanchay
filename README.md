@@ -15,22 +15,23 @@
     <li>Content Writing</li>
   </ul>
 
-  <h2>🌱About Me</h2>
-  <p>I'm passionate about exploring AI and Machine Learning, alongside my basic knowledge of front-end development. My goal is to make significant contributions to projects that blend technology with innovative solutions. Although I’m currently developing my skills, I aim to achieve a high level of proficiency by the end of this year.</p>
+ <h2>🌱About Me</h2>
+<p>I'm passionate about exploring AI and Machine Learning, and I have a basic knowledge of front-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions. While I am currently developing my expertise, I aim to achieve a high level of proficiency in AI/ML, DSA, and development by the end of this year.</p>
+
 
   <h2>🚀Projects</h2>
   <p>Stay tuned for exciting projects that highlight my development and AI/ML capabilities.</p>
 
   <h2>📬Let's Connect</h2>
   <p>Feel free to reach out for collaborations or discussions on AI/ML, front-end development, content creation, or any tech-related topics!</p>
-  <p>Connect with me on <a href="https://www.linkedin.com/in/sanchay-sinha">LinkedIn</a> | Follow me on <a href="https://twitter.com/sinha_sanchay">Twitter</a></p>
+  <p>Connect with me on <a href="https://www.linkedin.com/in/sanchay-sinha">LinkedIn</a>
 
   <h2>📈Competitive Programming</h2>
   <p>Participating in DSA contests on various platforms:</p>
   <ul>
-    <li><a href="https://codeforces.com/profile/sinha_sanchay">Codeforces (1200+)</a></li>
-    <li><a href="[https://www.codechef.com/users/sinha_sanchay](https://www.codechef.com/users/sanchay_sinha)">CodeChef (3 Star)</a></li>
-    <li><a href="https://leetcode.com/sinha_sanchay/">LeetCode (1600+)</a></li>
+    <li><a href="https://codeforces.com/profile/sanchay-sinha">Codeforces (1200+)</a></li>
+    <li><a href="https://www.codechef.com/users/sinha_sanchay">CodeChef (3 Star)</a></li>
+    <li><a href="https://leetcode.com/u/sanchay-sinha/">LeetCode (1600+)</a></li>
   </ul>
 
   <p>Let's code and create together! 🌟</p>
