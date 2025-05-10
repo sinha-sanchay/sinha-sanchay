@@ -5,7 +5,7 @@
 
   <h1>Sanchay Sinha</h1>
 
-  <p>Hello, I'm Sanchay Sinha, a B.Tech CSE student currently in my third year with a CGPA of 9.34. I have a foundational knowledge of front-end development and am deeply interested in AI and Machine Learning. I am committed to enhancing my skills in these areas throughout the year. Here's a glimpse of what I bring to the table:</p>
+  <p>Hello, I'm Sanchay Sinha, a B.Tech CSE student currently in my third year with a CGPA of 9.43. I have a foundational knowledge of front-end development and am deeply interested in AI and Machine Learning. I am committed to enhancing my skills in these areas throughout the year. Here's a glimpse of what I bring to the table:</p>
 
   <h2>🔧Skills</h2>
   <ul>
@@ -30,7 +30,7 @@
   <p>Participating in DSA contests on various platforms:</p>
   <ul>
     <li><a href="https://codeforces.com/profile/sanchay-sinha">Codeforces (1200+)</a></li>
-    <li><a href="https://www.codechef.com/users/sinha_sanchay">CodeChef (3 Star)</a></li>
+    <li><a href="https://www.codechef.com/users/sinha_sanchay">CodeChef (4 Star)</a></li>
     <li><a href="https://leetcode.com/u/sanchay-sinha/">LeetCode (1600+)</a></li>
   </ul>
 
