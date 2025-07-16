@@ -19,9 +19,6 @@
 <p>I'm passionate about exploring AI and Machine Learning, and I have a basic knowledge of front-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions.</p>
 
 
-  <h2>🚀Projects</h2>
-  <p>Stay tuned for exciting projects that highlight my development and AI/ML capabilities.</p>
-
   <h2>📬Let's Connect</h2>
   <p>Feel free to reach out for collaborations or discussions on AI/ML, front-end development, content creation, or any tech-related topics!</p>
   <p>Connect with me on <a href="https://www.linkedin.com/in/sanchay-sinha">LinkedIn</a>
