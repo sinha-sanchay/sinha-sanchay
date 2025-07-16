@@ -16,7 +16,7 @@
   </ul>
 
  <h2>🌱About Me</h2>
-<p>I'm passionate about exploring AI and Machine Learning, and I have a basic knowledge of front-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions. While I am currently developing my expertise, I aim to achieve a high level of proficiency in AI/ML, DSA, and development by the end of this year.</p>
+<p>I'm passionate about exploring AI and Machine Learning, and I have a basic knowledge of front-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions.</p>
 
 
   <h2>🚀Projects</h2>
