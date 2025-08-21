@@ -5,7 +5,7 @@
 
   <h1>Sanchay Sinha</h1>
 
-  <p>Hello, I'm Sanchay Sinha, a B.Tech CSE student currently in my third year with a CGPA of 9.43. I have a foundational knowledge of front-end development and am deeply interested in AI and Machine Learning. I am committed to enhancing my skills in these areas throughout the year. Here's a glimpse of what I bring to the table:</p>
+  <p>Hello, I'm Sanchay Sinha, a B.Tech CSE student currently in my finar year with a CGPA of 9.46. I have a foundational knowledge of front-end development and am deeply interested in AI and Machine Learning. I am committed to enhancing my skills in these areas throughout the year. Here's a glimpse of what I bring to the table:</p>
 
   <h2>🔧Skills</h2>
   <ul>
