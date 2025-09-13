@@ -9,18 +9,15 @@
 
   <h2>🔧Skills</h2>
   <ul>
-    <li>HTML, CSS, JavaScript (Basic Front-End Development)</li>
     <li>Python, Java, C, SQL</li>
-    <li>VS Code, Jupyter Notebook, Google Colab</li>
-    <li>Content Writing</li>
   </ul>
 
  <h2>🌱About Me</h2>
-<p>I'm passionate about exploring AI and Machine Learning, and I have a basic knowledge of front-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions.</p>
+<p>I'm passionate about exploring AI and Machine Learning, and hands on experience in back-end development. I am also actively working on improving my skills in Data Structures and Algorithms (DSA) to enhance my problem-solving capabilities. My goal is to make meaningful contributions to projects that integrate technology with innovative solutions.</p>
 
 
   <h2>📬Let's Connect</h2>
-  <p>Feel free to reach out for collaborations or discussions on AI/ML, front-end development, content creation, or any tech-related topics!</p>
+  <p>Feel free to reach out for discussions on AI/ML, backend development, or any tech-related topics!</p>
   <p>Connect with me on <a href="https://www.linkedin.com/in/sanchay-sinha">LinkedIn</a>
 
   <h2>📈Competitive Programming</h2>
